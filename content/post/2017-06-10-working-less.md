@@ -22,11 +22,11 @@ Luckily we see a new class of developers rise up in protest to romanticizing 80-
 <br/>
 ## Feeling like superman
 
-As a guy who repeatedly fell into the trap of working too much I can tell you that it's -sadly- easier said than done. It's hard because that romantic image of the "pirate" Apple engineer sleeping at his desk to finish the first Macintosh is hardwired in our collective concious. We've all had those moments where you're able to run a workweek of about 70 to 80 hours and still manage to get stuff done around the house, keep your appointments and get your inbox to zero. 
+As a guy who repeatedly fell into the trap of working too much I can tell you that working less is -sadly- easier said than done. It's hard because that romantic image of the "pirate" Apple engineer sleeping at his desk to finish the first Macintosh is hardwired in our collective concious. We've all had those moments where you're able to run a workweek of about 60 to 70 hours and still manage to get stuff done around the house, keep your appointments and get your inbox to zero. 
 
 *__And. that. FEELS. FANTASTIC.__*
 
-It's like a drug because your feeling a bit like superman thinking: "I'm getting so much more done than the average person! I must be amazing". 
+It's like a drug. You feel a bit like superman thinking: "I'm getting so much more done than the average person! I must be amazing". 
 
 *__Yeah, you're not.__*
 
@@ -35,12 +35,14 @@ Because this might go alright for a week... maybe two, but eventually the crash 
 <br/>
 ## Turning it around
 
-I don't have a clear-cut answer for you as to how you can turn that around. I can tell you what brought my hours from an average of 60 a week to about 38 a week:
+I don't have a clear-cut answer for you as to how you can turn that around. But what I can tell you is what brought my hours from an average of 60 to about 38 a week:
 <br/>
 
 **1\. Get a time-tracker**
 ![My hours this week](/images/timi1.png)
-I've been using [Timi](https://timiapp.com) for about three years now and let me tell you: insights into how much your working is everything! This got my ball rolling. This got me to admit that I had a problem. I'm happy to recommand Timi to anyone by the way, but they're a dutch startup and I don't think they offer an enlish version yet. In any case; the UI of Timi rocks. It's super easy; just like filling in a log since it's all just a textarea with very smart text interpretation. The lesson? Make sure your time-tracker is super easy to use. Don't let bad UI get in your way of creating a new habit.
+I've been using [Timi](https://timiapp.com) for three years now and let me tell you: insights into how much you're working is everything! This got the ball rolling for me. This got me to admit that I had a problem. I'm happy to recommand Timi to anyone by the way, but they're a dutch startup and I don't think they offer an english version yet. 
+
+In any case; the UI of Timi rocks. It's super easy: just like filling in a log since it's all just a textarea with very smart text interpretation. The lesson? Make sure your time-tracker is super easy to use. Don't let bad UI get in your way of creating a new habit.
 
 ![Logging hours](/images/timi2.png)
 
@@ -48,9 +50,9 @@ I've been using [Timi](https://timiapp.com) for about three years now and let me
 
 **2\. Define a goal**
 
-I officially started working less in 2015. My goal was to go from an average of 55 hours a week to 45. A goal in which I didn't succeed in the first year; I got to an average of 36. I didn't understand at first (it felt like a lot more) until I remembered to subtract my vacation and weekends (days that you're actually and REALLY should be free). Once I factored those in I got to about 48 hours a week.
+I officially started working less in 2015. My goal was to go from an average of 57 hours a week to 45. A goal in which I didn't succeed in the first year; I got to an average of 36. I didn't understand at first (it felt like a lot more) until I remembered to subtract my vacation and weekends (days that you're actually -and ought to be- free). Once I factored those in I got to about 48 hours a week.
 
-In 2016 I managed to bring that down to an average of 42 hours a week and my current average for 2017 is about 38. So yeah; it took me 2,5 years to get at an exceptable number. Make sure you don't underestimate how hard this is.
+In 2016 I managed to bring that down to an average of 42 hours a week and my current average for 2017 is 38. So yeah; it took me 2,5 years to get at an exceptable number. Make sure you don't underestimate how hard this is.
 
 <br/>
 
