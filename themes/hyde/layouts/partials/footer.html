@@ -1,0 +1,10 @@
+<script type="text/javascript">
+    
+	const w = window.innerWidth;
+  	document.onmousemove = function( event ){
+    	let percentX = Math.round( event.clientX / w * 360 );
+    	document.documentElement.style.setProperty( '--num-start', percentX );
+    	document.documentElement.style.setProperty( '--num-end', ( percentX + 120 ) );
+  	};
+
+</script>

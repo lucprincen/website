@@ -1,0 +1,268 @@
+/*
+ *  __                  __
+ * /\ \                /\ \
+ * \ \ \___   __  __   \_\ \     __
+ *  \ \  _ `\/\ \/\ \  /'_` \  /'__`\
+ *   \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
+ *    \ \_\ \_\/`____ \ \___,_\ \____\
+ *     \/_/\/_/`/___/> \/__,_ /\/____/
+ *                /\___/
+ *                \/__/
+ *
+ * Designed, built, and released under MIT license by @mdo. Learn more at
+ * https://github.com/poole/hyde.
+ */
+
+
+/*
+ * Contents
+ *
+ * Global resets
+ * Sidebar
+ * Container
+ * Reverse layout
+ * Themes
+ */
+
+:root {
+  --num-start: 280;
+  --num-end:   40;
+  --grad-start:  hsl(var(--num-start), 70%, 90%);
+  --grad-end:    hsl(var(--num-end), 70%, 75%);
+  --link-color: hsl(var(--num-end), 90%, 30%);
+}
+
+body{
+  overflow-x: hidden;
+}
+
+.bg{
+    position: fixed;
+    z-index: -1;
+    background: linear-gradient(135deg, var(--grad-start), var(--grad-end));
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+}
+
+.frame{
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  border: 20px solid white;
+  background: transparent;
+  box-sizing: border-box;
+  pointer-events: none;
+}
+
+a {
+  color: #000;
+  color: var( --link-color );
+  text-decoration: none;
+  background: transparent;
+  border-bottom: 2px solid rgba(0,0,0,.3);
+}
+
+a:hover{
+  text-decoration: none;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px white, 2px 2px 10px rgba(0,0,0,.5);
+  background: white;
+}
+
+.post-title a, .sidebar a, .sidebar h1 a:hover{
+  border: 0;
+  color: var(--link-color);
+}
+
+.post-title a:hover{
+  background:transparent;
+  box-shadow: none;
+  color: white;
+}
+
+.post-title a:hover{
+    text-shadow: 1px 1px 3px rgba(0,0,0,.3);
+}
+
+.sidebar a:hover{
+  background: transparent;
+  box-shadow: none;
+}
+
+
+/*
+ * Global resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+html {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+@media (min-width: 48em) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 58em) {
+  html {
+    font-size: 20px;
+  }
+}
+
+
+
+/*
+ * Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+.sidebar {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(0,0,0,.5);
+  background-color: transparent;
+}
+
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
+}
+
+
+/* About section */
+.sidebar h1 {
+  margin-top: 0;
+  font-family: "Alegreya", serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 3.25rem;
+}
+
+/* Sidebar nav */
+.sidebar-nav {
+  margin-bottom: 1rem;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: underline;
+}
+.sidebar-nav-item.active {
+  font-weight: bold;
+}
+
+
+/* Container
+ *
+ * Align the contents of the site above the proper threshold with some margin-fu
+ * with a 25%-wide `.sidebar`.
+ */
+
+.content {
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+}
+
+@media (min-width: 48em) {
+  .content {
+    max-width: 38rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
+}
+
+.post-meta{
+  padding-bottom: 40px;
+}
+
+.post-meta > h3{
+  font-size: 1.2rem;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.sidebar{
+  background: transparent;
+}
+
+.sidebar-sticky, .sidebar-about{
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.sidebar-sticky{
+  height: 100%;
+}
+
+.sidebar-about{
+  flex: 1;
+}
+
+.available{
+    margin: auto 0 15px 0;
+    display: block;
+}
+
+.available strong{
+    color: dodgerblue;
+    font-size: 1.3rem;
+    display: inline;
+    background: white;
+    box-shadow: 0 0 0 5px white, 1px 1px 10px rgba(0,0,0,.5);
+}
+
+.available strong a{
+  color:#444 !important;
+  text-decoration: underline;
+}
+
+.available strong a:hover{
+  color: #ac4142 !important;
+}
+
+.content blockquote{
+  border-color: transparent transparent transparent var(--link-color);
+}
+
+.content blockquote p{
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--link-color);
+}
+
+.content .recents{
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.content .recents h3{
+  margin: 0 0 10px 0;
+}

@@ -1,0 +1,21 @@
+<div class="frame"></div>
+<div class="bg"></div>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+      <p class="lead">
+      Independent developer &amp; designer. Open source lover, barbecue fan and hoping to write more.
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li><a href="/">Home</a> </li>
+      {{ range .Site.Menus.main }}
+        <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+      {{end}}
+    </ul>
+
+    <p>&copy; {{ now.Format "2006"}} LucP</p>
+  </div>
+</div>
