@@ -1,10 +1,11 @@
----
-layout: post
-comments: true
-date: 2017-06-10T00:00:00Z
-title: Working Less
-url: /working-less/
----
++++
+Categories = ["Development","GoLang"]
+Description = "On working less"
+date = "2017-06-10T19:36:49+02:00"
+title = "Working Less"
+url = "/working-less"
++++
+
 
 The past few days you may have seen this image floating around the tweetosphere of Apple's Planet of the Apps, where a developer is boasting about not seeing his kids and giving it his all. 
 
