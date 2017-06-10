@@ -27,9 +27,13 @@
 :root {
   --num-start: 280;
   --num-end:   40;
-  --grad-start:  hsl(var(--num-start), 70%, 90%);
+  --grad-start:  hsl(var(--num-start), 70%, 95%);
   --grad-end:    hsl(var(--num-end), 70%, 75%);
   --link-color: hsl(var(--num-end), 90%, 30%);
+  
+  --logo1: hsl(var(--num-end), 70%, 50% );
+  --logo2: hsl(var(--num-end), 50%, 40% );
+  --logo3: hsl(var(--num-end), 30%, 30% );
 }
 
 body{
@@ -73,9 +77,19 @@ a:hover{
   background: white;
 }
 
-.post-title a, .sidebar a, .sidebar h1 a:hover{
+.post-title a, .sidebar a{
   border: 0;
   color: var(--link-color);
+}
+
+.sidebar h1 a{
+  color: white;
+  text-shadow: 
+                2px 2px 0 var(--logo1), 
+                4px 4px 0 var(--logo2), 
+                6px 6px 0 var( --logo3 ),
+                0 0 25px rgba(0,0,0,.3)
+  ;
 }
 
 .post-title a:hover{
