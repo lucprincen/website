@@ -40,7 +40,7 @@ I don't have a clear-cut answer for you as to how you can turn that around. But 
 
 **1\. Get a time-tracker**
 ![My hours this week](/images/timi1.png)
-I've been using [Timi](https://timiapp.com) for three years now and let me tell you: insights into how much you're working is everything! This got the ball rolling for me. This got me to admit that I had a problem. I'm happy to recommand Timi to anyone by the way, but they're a dutch startup and I don't think they offer an english version yet. 
+I've been using [Timi](https://timiapp.com) for three years now and let me tell you: insights into how much you're working is everything! This got the ball rolling for me. This got me to admit that I had a problem. I'm happy to recommend Timi to anyone by the way, but they're a dutch startup and I don't think they offer an english version yet. 
 
 In any case; the UI of Timi rocks. It's super easy: just like filling in a log since it's all just a textarea with very smart text interpretation. The lesson? Make sure your time-tracker is super easy to use. Don't let bad UI get in your way of creating a new habit.
 
