@@ -77,6 +77,11 @@ a:hover{
   background: white;
 }
 
+.posts .post{
+  padding-bottom: 4em;
+  border-bottom: 5px solid var(--logo2);
+}
+
 .post-title a, .sidebar a{
   border: 0;
   color: var(--link-color);
