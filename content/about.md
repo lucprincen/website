@@ -10,13 +10,13 @@ layout = "page"
 
 <p class="message">
 
-Hi There! My name is Luc, I live in the Netherlands with my wife and son and I do some stuff on the web.
+Hi There! My name is Luc, I live in the Netherlands with my wife and son. I like creating stuff for the web.
 
 </p>
 
-I'm a co-founder of online agency [Chef du Web](https://chefduweb.nl) (for which [i recently stopped working](/2017/06/07/time-for-something-new)) and [Alpackit](https://alpack.it). You can find me on [Twitter](https://twitter.com/LucP)
+I'm a co-founder of online agency [Chef du Web](https://chefduweb.nl) (for which [i recently stopped working](/time-for-something-new/)) and [Alpackit](https://alpack.it). You can find me on [Twitter](https://twitter.com/LucP)
 
-I work a lot with WordPress and I love open source in general. I'm mostly involved in frontend development where I like elegant cod and fast load times.
+I work a lot with WordPress and I love open source in general. I'm mostly involved in frontend development where I like elegant code and fast load times.
 
 In my private time I like barbecueing low & slow caveman meals, painting and playing the occasional grand strategy game like Civilization or Europa Universalis.
 
