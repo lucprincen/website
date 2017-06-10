@@ -280,3 +280,7 @@ a.sidebar-nav-item:focus {
 .content .recents h3{
   margin: 0 0 10px 0;
 }
+
+.sidebar .subcredits{
+  font-size: .8rem;
+}
