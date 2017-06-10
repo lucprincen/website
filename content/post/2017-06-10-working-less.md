@@ -15,9 +15,9 @@ The past few days you may have seen this image floating around the tweetosphere 
 
 ## The romantic ideal
 
-A lot of people -I think rightfully- took offence to that ad because of this industries inherent enabling of workaholism. Being in development -especially in a position where a lot depends on you- can be pretty daunting. You can do something not that many people can so questions about getting more out of you are pretty much a dime a dozen. 
+A lot of people -I think rightfully- took offence to that ad because of this industries inherent enabling of workaholism. Being in development -especially in a position where a lot depends on you- can be pretty daunting. You can do something that not a lot of people can do, so questions that are supposed to get more productivity out of you are a dime a dozen. 
 
-Luckilly we see a new class of developers rise up in protest to romanticizing 80-hour work weeks. They're argueing that for you to be better at your work, you should be well-rested and comfortable. Before you read the next paragraphs, let me be clear and say that I couldn't agree more with that. 
+Luckily we see a new class of developers rise up in protest to romanticizing 80-hour work weeks. They're argueing that for you to be better at your work, you should be well-rested and comfortable. Before you read the next paragraphs, let me be clear and say that I couldn't agree more with that. 
 
 <br/>
 ## Feeling like superman
