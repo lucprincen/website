@@ -72,6 +72,6 @@ This is my regular hourly rate. Obviously, before we start a project together, I
 
 ## Billing
 
-I bill dependent on the project. If your project spans multiple months, I will send you a bill for the work done each month. If it's a smaller project I require a downpayment of 50% upfront. After technical delivery I will bill another 40% and the last 10% will either be billed when the project goes live or one month after delivery.
+I bill dependent on the project. If your project spans multiple months, I will send you a bill for the work done each month. If it's a smaller project I require a downpayment of 50% upfront. After technical delivery I will bill another 40% and the last 10% will either be billed when the project goes live or one month after delivery; whichever comes first.
 
 Each bill will have a detailed time sheet of the work that has been done.
