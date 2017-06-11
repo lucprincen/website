@@ -9,8 +9,12 @@
 			      {{ .Content }}
 			</div>
 			
-			{{ partial "read-on" . }}
-			{{ partial "disqus" . }}
+			{{if eq .Type "post" }}
+
+				{{ partial "read-on" . }}
+				{{ partial "disqus" . }}
+				
+			{{ end }}
 		</div>
 	   {{ partial "footer.html" }}
   </body>

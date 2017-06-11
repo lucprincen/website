@@ -10,9 +10,10 @@ layout = "page"
 
 <p class="message">
 
-Hi There! My name is Luc, I live in the Netherlands with my wife and son. I like creating stuff for the web.
-
+Hi There! My name is Luc Princen, I live in the Netherlands with my wife and son. I like creating stuff for the web &amp; solving problems. 
 </p>
+
+<img src="/images/luc.jpg" class="align-right" alt="This is me.">
 
 I'm a co-founder of online agency [Chef du Web](https://chefduweb.nl) (for which [i recently stopped working](/time-for-something-new/)) and [Alpackit](https://alpack.it). You can find me on [Twitter](https://twitter.com/LucP)
 
@@ -20,9 +21,8 @@ I work a lot with WordPress and I love open source in general. I'm mostly involv
 
 In my private time I like barbecueing low & slow caveman meals, painting and playing the occasional grand strategy game like Civilization or Europa Universalis.
 
-
 ---
-## Alpackit
 
-Premium WordPress plugins have a problem; how to easily keep your plugins updated for the regular WordPress user. Creating this system yourself, along with license checks and payment handeling can be a very time consuming task. This is where Alpackit comes in; It allows you to easily sell your licenses and distribute your plugin to anyone who's license is still valid. All you have to know is how to push a commit to your favorite hosted GIT server and we'll take care of the rest
+## Work
 
+I'm an experienced developer and designer. I have worked on big and small projects in big and small teams. I love writing documented and maintainable code. I'm [available for hire](/hire-me/) as a freelancer. 
