@@ -33,7 +33,7 @@ I'm offering three types of services. I love solving problems related to develop
 	<div class="block">
 		<h3>Web apps<br/>&amp; Games</h3>
 
-		<p>I have about 4 years of experience creating (online) games and web apps. I like working with tools like Laravel and Meteor and am proficient in a few Javascript canvas libraries. If you have some crazy idea kicking around: let me know! Let's be creative together!</p>
+		<p>I have about 4 years of experience creating (online) games and web apps. I like working with tools like Laravel and Meteor and am proficient in some Javascript canvas libraries. If you have a crazy idea kicking around: let me know! Let's be creative together!</p>
 
 	</div>
 </div>
