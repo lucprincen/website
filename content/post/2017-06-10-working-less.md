@@ -15,14 +15,15 @@ The past few days you may have seen this image floating around the tweetosphere 
 
 ## The romantic ideal
 
-A lot of people -I think rightfully- took offence to that ad because of this industries inherent enabling of workaholism. Being in development -especially in a position where a lot depends on you- can be pretty daunting. You can do something that not a lot of people can do, so questions that are supposed to get more productivity out of you are a dime a dozen. 
+A lot of people -I think rightfully- took offence to that ad because of this industries inherent enabling of workaholism. Being in development -especially in a position where a lot depends on you- can be pretty daunting. You can do something that not many people can, so questions that are supposed to get more productivity out of you are a dime a dozen. 
+
 
 Luckily we see a new class of developers rise up in protest to romanticizing 80-hour work weeks. They're argueing that for you to be better at your work, you should be well-rested and comfortable. Before you read the next paragraphs, let me be clear and say that I couldn't agree more with that. 
 
 <br/>
 ## Feeling like superman
 
-As a guy who repeatedly fell into the trap of working too much I can tell you that working less is -sadly- easier said than done. It's hard because that romantic image of the "pirate" Apple engineer sleeping at his desk to finish the first Macintosh is hardwired in our collective concious. We've all had those moments where you're able to run a workweek of about 60 to 70 hours and still manage to get stuff done around the house, keep your appointments and get your inbox to zero. 
+As a guy who repeatedly fell into the trap of working too much I can tell you that working less is -sadly- easier said than done. It's hard because that romantic image of the "pirate" Apple engineer sleeping at his desk to finish the first Macintosh is hardwired in our collective consciousness. We've all had those moments where you're able to run a workweek of about 60 to 70 hours and still manage to get stuff done around the house, keep your appointments and get your inbox to zero. 
 
 *__And. that. FEELS. FANTASTIC.__*
 
@@ -40,7 +41,7 @@ I don't have a clear-cut answer for you as to how you can turn that around. But 
 
 **1\. Get a time-tracker**
 ![My hours this week](/images/timi1.png)
-I've been using [Timi](https://timiapp.com) for three years now and let me tell you: insights into how much you're working is everything! This got the ball rolling for me. This got me to admit that I had a problem. I'm happy to recommend Timi to anyone by the way, but they're a dutch startup and I don't think they offer an english version yet. 
+I've been using [Timi](https://timiapp.com) for three years now and let me tell you: insights into how much you're working is everything! This got the ball rolling for me. This got me to admit that I had a problem. I'm happy to recommend Timi to anyone by the way, but they're a Dutch startup and I don't think they offer an English version yet. 
 
 In any case; the UI of Timi rocks. It's super easy: just like filling in a log since it's all just a textarea with very smart text interpretation. The lesson? Make sure your time-tracker is super easy to use. Don't let bad UI get in your way of creating a new habit.
 
