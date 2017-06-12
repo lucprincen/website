@@ -283,6 +283,11 @@ a.sidebar-nav-item:focus {
   color: var(--link-color);
 }
 
+.content ins{
+  text-decoration: none;
+  background: rgba(255,255,0,0.3);
+}
+
 .content .recents{
   list-style: none;
   padding-left: 0;
