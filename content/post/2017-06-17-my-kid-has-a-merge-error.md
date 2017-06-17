@@ -3,7 +3,7 @@ Categories = ["Personal", "Adulting"]
 date = "2017-06-17T12:09:18+02:00"
 title = "My kid has a merge error"
 type = "post"
-url: /my-kid-has-a-merge-error/
+url = "/my-kid-has-a-merge-error/"
 
 +++
 
