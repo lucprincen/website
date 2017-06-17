@@ -3,6 +3,8 @@ Categories = ["Personal", "Adulting"]
 date = "2017-06-17T12:09:18+02:00"
 title = "My kid has a merge error"
 type = "post"
+url: /my-kid-has-a-merge-error/
+
 +++
 
 So as you might have read in [a previous blog post]({{site.baseUrl}}/2017/06/07/time-for-something-new.html), my son, Nero, needs some extra attention in the medical department. He has a form of autism (which form we're not completely sure on) which is currently grinding his early development to a halt. He's about 4,5 years old but doesn't talk (not even words like daddy or mommy). And apart from the autism there's another factor at play. I'd like to talk about that today since I get asked a lot of questions about this and sometimes it just becomes easier to refer to a blog-post.
