@@ -35,7 +35,7 @@ We get questions a lot. From friends, other parents, professionals working on ma
 
 I've also begun working on a tool that can make our lives, and the lives of everybody with and everyone around someone with autism easier. 
 
-The tool is acutally a webapp with the working title of Plan Ahoy, which I'm writing in Laravel and Vue. 
+The tool is actually a webapp with the working title of Plan Ahoy, which I'm writing in Laravel and Vue. 
 
 It will make visual planning a lot easier than it is right now. It's definitely not finished yet, although I would've wanted it to. But I haven't quit my job for nothing; I'll be spending a lot of time on it in months to come. I'll use this blog as a sort of dev-journal, so if you're interested, please check back. And again: if you have questions, feel free to leave them in the comments. 
 
