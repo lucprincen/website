@@ -27,7 +27,7 @@ First of all; the amount of symptoms one experiences through an 18q deletion is 
 
 What he does have is a softening of his muscular issue. Meaning that he has trouble flexing and working his muscles to the full extend. That wasn't very aparent when he was a baby, but starts to be way more noticable now that he's 4,5 years old. He can't really sit in a normal chair, can't walk very far and needs a lot of general physical support with stuff like climbing the stairs.
 
-There's also a tendency for people with 18q to be autistic. It's not yet clear if this is one of the areas that can cause autism. As you may now, this is something that's being studied a lot -it's currently the most studied disability in the world- and we're still mostly guessing on which combination of genes causes it. Anyway: the long arm of the 18th chromosome is definitely on the short-list, but can't explain the vast spectrum of autism with such a small mutation-chance.
+There's also a tendency for people with 18q to be autistic. It's not yet clear if this is one of the areas that can cause autism. As you may now, this is something that's being studied a lot -it's currently one of the most studied disability in the world- and we're still mostly guessing on which combination of genes causes it. Anyway: the long arm of the 18th chromosome is definitely on the short-list, but can't explain the vast spectrum of autism with such a small mutation-chance.
 
 
 ## Turning it into something positive
