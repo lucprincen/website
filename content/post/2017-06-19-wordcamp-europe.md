@@ -57,7 +57,7 @@ I learned a ton of new stuff from this talk (like the [aria-live](https://develo
 
 I had a lot of great conversations, so talking about all of them would be impossible. I just want to highlight a few. On the second day of the conference I had a great talk with [Omar](https://twitter.com/OmarReiss) and [Anton](https://twitter.com/atimmer10) from [Yoast](https://yoast.com) about a document- versus application-approach to development. It cleared a lot up for me (like the appeal for inline styling in React, which got the ball rolling conversation-wise). Had a cool discussion with [Ramon](https://twitter.com/ramonfincken) of Managed WP, and I also liked talking to [Jean and Alyona Galea from WP Mayor](https://www.wpmayor.com/) during the after-party.
 
-Speaking of party; I love hanging out with the fine-ass people of [Level-level](https://level-level.com/) and I hope they never lose that [010-swagger](https://www.youtube.com/watch?v=Fu297WeLMKc). 
+Speaking of party; I love hanging out with the fine-ass people of [Level-level](https://level-level.com/) again and I hope they never lose that [010-swagger](https://www.youtube.com/watch?v=Fu297WeLMKc). 
 
 I was utterly humbled by discussions with [Joost](https://twitter.com/jdevalk), [Marieke](https://twitter.com/MariekeRakt) and [Michiel](https://twitter.com/michielheijmans) of Yoast, [Rosanne](https://twitter.com/BuroStaal) of Buro Staal and [Saskia](https://twitter.com/saskiageleedts). Thank you for your kind words. 
 
