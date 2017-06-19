@@ -65,9 +65,9 @@ I was utterly humbled by discussions with [Joost](https://twitter.com/jdevalk), 
 
 ## Parties
 
-After that cascade of links, I just have to talk about the parties, because party-wise I think this was the best WordCamp Europe yet. On the first conference day, at about 4pm, a guy came up to us and told us about a pop-up bar the guys from [Dekode](https://dekode.no/) had arranged. We had some nice beers and talked to some interesting people. It was exectly the pick-me-up I needed after a long (and hot) day of talks.
+After that cascade of links, I just have to talk about the parties, because party-wise I think this was the best WordCamp Europe yet. On the first conference day, at about 4pm, a guy came up to us and told us about a pop-up bar the guys from [Dekode](https://dekode.no/) had arranged. We had some nice beers and talked to some interesting people. It was exactly the pick-me-up I needed after a long (and hot) day of talks.
 
-The second party I went to in Paris was later that night and held by [Savvii](https://www.savvii.nl/) and was aptly named "WordPint". On the foot of the Sacre-Coeur, we enjoyed the view, the good company and a lot of nice beers. Apart from the occasional french jogger, the party was fantastic! Although we did [mis out on a proposal](https://twitter.com/michielheijmans/status/875785068480004097) over at the Go-Daddy party in the Paris Aquarium :)
+Later that night I went to the second party in Paris. It was held by [Savvii](https://www.savvii.nl/) and was aptly named "WordPint". On the foot of the Sacre-Coeur, we enjoyed the view, the good company and a lot of nice beers. Apart from the occasional french jogger, the party was fantastic! Although we did [mis out on a proposal](https://twitter.com/michielheijmans/status/875785068480004097) over at the Go-Daddy party in the Paris Aquarium :)
 
 Then there was the after-party organised by the event itself. The location was beautiful and the drinks were reasonably priced (for Paris). There was a lot of post-WordCamp stress unloading on the dance-floor :)
 
@@ -79,7 +79,7 @@ The only down-side (of the entire event, actually) was the food-situation at the
 
 ## Up next
 
-In 2018 we'll be having a ball in Belgrade! Servia's capital was chosen as the official next host-city. I can't wait for next year, because I've never been there and really love eastern europe and it's cities, people and cultures. And [also because of this](https://twitter.com/Mamaduka/status/876708216146726913).
+In 2018 we'll be having a ball in Belgrade! Servia's capital was chosen as the official next host-city. I can't wait for next year, because I've never been there and really love eastern europe, it's cities, it's people and it's cultures. And [also because of this](https://twitter.com/Mamaduka/status/876708216146726913).
 
 Until next year! ;-)
 
