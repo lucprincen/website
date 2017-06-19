@@ -45,7 +45,7 @@ If you haven't yet; please [get to know CSS Grid by playing a game](http://cssgr
 
 
 ### Accessibility In The Age Of The Headless CMS - Rian Rietveld
-Accessibility is important. And it's on the agenda at conferences like wceu in large part because of Rian. You can't blame the organizers for inviting her again for a talk. And why should you? Because Rian showed us a very interestign -and utterly overshadowed- part of accesibility: Accessibility in combination with single-page web apps. Something WordPress has been inching towards the past couple of years. 
+Accessibility is important. And it's on the agenda at conferences like wceu in large part because of Rian. You can't blame the organizers for inviting her again for a talk. And why should you? Because Rian showed us a very interesting -and utterly overshadowed- part of accesibility: Accessibility in combination with single-page web apps. Something WordPress has been inching towards the past couple of years. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;I signed a code of conduct, so i cannot swear here, but for crying out loud&quot; <a href="https://twitter.com/hashtag/WCEU?src=hash">#WCEU</a> <a href="https://t.co/utVeTNsgKl">pic.twitter.com/utVeTNsgKl</a></p>&mdash; Luc Princen (@LucP) <a href="https://twitter.com/LucP/status/876004930137583616">June 17, 2017</a></blockquote>
 
