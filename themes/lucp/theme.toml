@@ -1,0 +1,11 @@
+name = "LucP"
+license = "MIT"
+licenselink = "https://github.com/lucprincen/lucp"
+description = "Independent developer & designer. Open source lover, barbecue fan and hoping to write more."
+tags = ["blog", "company"]
+features = ["blog", "themes", "disqus"]
+min_version = 0.20
+
+[author]
+    name = "Luc Princen"
+    homepage = "http://lucp.nl"

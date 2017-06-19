@@ -1,0 +1,35 @@
+{{ partial "head.html" . }}
+    <body>
+        <div class="bg"></div>
+        <div class="frame"></div>
+        <div class="site">
+            {{ partial "sidebar.html" . }}
+
+            <main class="content posts" role="main">
+
+            {{ range .Data.Pages }}
+                {{if eq .Type "post" }}
+                
+                <article class="post">
+                    <h1 class="post-title">
+                        <a href="{{ .Permalink }}">
+                            {{ .Title }}
+                        </a>
+                    </h1>
+
+                    <time class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+
+                    {{ .Content }}
+                
+                </article>
+                {{ end }}
+            
+            {{ end }}
+
+            </main>
+
+            {{ partial "footer.html" }}
+
+        </div>
+    </body>
+</html>
