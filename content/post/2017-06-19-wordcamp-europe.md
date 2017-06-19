@@ -71,6 +71,8 @@ The second party I went to in Paris was later that night and held by [Savvii](ht
 
 Then there was the after-party organised by the event itself. The location was beautiful and the drinks were reasonably priced (for Paris). There was a lot of post-WordCamp stress unloading on the dance-floor :)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">P. A. R. T. Y<a href="https://twitter.com/hashtag/WCEU?src=hash">#WCEU</a> <a href="https://t.co/oA9BpaR3dH">pic.twitter.com/oA9BpaR3dH</a></p>&mdash; Marcel Bootsman (@mbootsman) <a href="https://twitter.com/mbootsman/status/876198592461123586">June 17, 2017</a></blockquote>
+
 The only down-side (of the entire event, actually) was the food-situation at the party. But there has been a lot of discussion about that already, so no need to bring it up again.
 
 <br/>
