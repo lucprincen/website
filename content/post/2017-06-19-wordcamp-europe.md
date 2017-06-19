@@ -59,7 +59,7 @@ I had a lot of great conversations, so talking about all of them would be imposs
 
 Speaking of party; I love hanging out with the fine-ass people of [Level-level](https://level-level.com/) again and I hope they never lose that [010-swagger](https://www.youtube.com/watch?v=Fu297WeLMKc). 
 
-I was utterly humbled by discussions with [Joost](https://twitter.com/jdevalk), [Marieke](https://twitter.com/MariekeRakt) and [Michiel](https://twitter.com/michielheijmans) of Yoast, [Rosanne](https://twitter.com/BuroStaal) of Buro Staal and [Saskia](https://twitter.com/saskiageleedts). Thank you for your kind words. 
+I was utterly humbled by discussions with [Joost](https://twitter.com/jdevalk), [Marieke](https://twitter.com/MariekeRakt) and [Michiel](https://twitter.com/michielheijmans) of Yoast, [Rosanne](https://twitter.com/BuroStaal) of Buro Staal and [Saskia](https://twitter.com/saskiageleedts). Thank you for your kind words. Also thanks to [Marcel](https://twitter.com/mbootsman) for some good advice ;-)
 
 <br/>
 
