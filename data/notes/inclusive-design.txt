@@ -1,0 +1,21 @@
+	- nieuw toevoegen is in de requirement / ontwerpfase veel makkelijker als later.
+
+	Testen:
+	- prototypes
+	- belangenvereningingen zijn goed om te contacten als er dingen getest moeten worden.
+	- stichting samen
+
+	automatisch testen: tenon.io / aXe
+
+	Perceivable - Operable - Understandable - Robust
+
+	Schrijf het liefst op B1 niveau.
+
+	Neurodiversiteit
+
+	Microsoft computer Vision API - wp plugin?
+
+	prefers-reduce-motion: reduce
+
+	@media( inverted-colors ){ .featured{ filter:invert( 100% )  }} 
+
