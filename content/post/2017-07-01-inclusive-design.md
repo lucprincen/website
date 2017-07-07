@@ -22,7 +22,7 @@ Well, why should that matter? Other than for moral reasons? Is there a reason to
 Obviously the main reason for switching to inclusive design is and ought to be; because you are a good person.
 
 ## Assignment
-Halfway through the workshop we where given different persona's and the assignment to work out a car-pooling webapp. Most of the time we worked in teams of three or four to solve this issue op paper. The last couple of hours we also got our hands dirty with some practical examples. Together with [Tim Severien](https://twitter.com/TimSeverien) I build a little searching app that works well on screenreaders, mobile and is easily readable for people with color-blindness or bad eyes. 
+Halfway through the workshop we where given different persona's and the assignment to work out a car-pooling webapp. Most of the time we worked in teams of three or four to solve this issue on paper. The last couple of hours we also got our hands dirty with some code. Together with [Tim Severien](https://twitter.com/TimSeverien) I build a little filter-app that works well on screenreaders, mobile and is easily readable for people with color-blindness and bad eyes. 
 
 <p data-height="408" data-theme-id="0" data-slug-hash="jwZXKa" data-default-tab="result" data-user="lucprincen" data-embed-version="2" data-pen-title="Under" class="codepen">See the Pen <a href="https://codepen.io/lucprincen/pen/jwZXKa/">Under</a> by Luc Princen (<a href="https://codepen.io/lucprincen">@lucprincen</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
