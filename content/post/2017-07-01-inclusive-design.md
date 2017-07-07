@@ -28,4 +28,6 @@ Halfway through the workshop we where given different persona's and the assignme
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Conclusion
-I need to learn a lot more about the practicalities and, if I'm working on an assignment, I need to prototype a lot more and for more target audiences. I also heard a new word which I really liked: Neurodiversity :)
+I need to learn a lot more about the practicalities and, if I'm working on an assignment, I need to prototype a lot more and for more target audiences. All in all I've expanded the scope of my understandind of accessibility. What I'd like to do now is follow a workshop on how to convince clients that investing in A11y matters :)
+
+One thing I'd also like to mention is that I learned the word Neurodiversity. And as [a parent of an autistic kid](/my-kid-has-a-merge-error/), I just have to say that I really love that word :) <3
