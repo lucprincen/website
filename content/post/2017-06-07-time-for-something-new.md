@@ -21,4 +21,4 @@ Another big factor was that the company was going in a different direction from 
 
 
 ## Get in touch with me!
-I still have most of my week available for client work though, so I'm in no way thinking about kicking back. I'm ready for exciting new WordPress, custom frontend, webapp- or game-development assignments you might have for me, so if you need a skilled developer and designer for your next big project, don't hesitate to [send me a message](mailto:luc@chefduweb.nl), or come and find me at [WordCamp Europe](https://2017.europe.wordcamp.org/) next week!
+I still have most of my week available for client work though, so I'm in no way thinking about kicking back. I'm ready for exciting new WordPress, custom frontend, webapp- or game-development assignments you might have for me, so if you need a skilled developer and designer for your next big project, don't hesitate to [send me a message](mailto:hi@lucp.nl), or come and find me at [WordCamp Europe](https://2017.europe.wordcamp.org/) next week!
