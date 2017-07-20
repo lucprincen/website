@@ -15,7 +15,7 @@ Hi There! My name is Luc Princen, I live in the Netherlands with my wife and son
 
 ## Services
 
-I'm offering three types of services. I love solving problems related to development and design. I'm a stickler for quality, documentation and maintainable code. If you care about those things too, then I'd love to work with you. I'm **currently available to discuss projects starting in September**, <a href="mailto:luc@chefduweb.nl">let me know how I can help you</a>
+I'm offering three types of services. I love solving problems related to development and design. I'm a stickler for quality, documentation and maintainable code. If you care about those things too, then I'd love to work with you. I'm **currently available to discuss projects starting in September**, <a href="mailto:hi@lucp.nl">let me know how I can help you</a>
 
 <div class="block-container">
 	<div class="block">
@@ -49,7 +49,7 @@ That being said; I'd love to help you in any custom WordPress project you might 
 
 <div class="cta">
 	<h3>That sounds perfect! Let's work together!</h3>
-	<a href="mailto:luc@chefduweb.nl" class="button">Get in touch</a>
+	<a href="mailto:hi@lucp.nl" class="button">Get in touch</a>
 </div>
 
 ## Rates
