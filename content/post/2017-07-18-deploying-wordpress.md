@@ -2,7 +2,6 @@
 Categories = ["Development","WordPress"]
 date = "2017-07-22T17:51:59+02:00"
 title = "Building a WordPress deployment tool"
-draft = true
 +++
 
 The last couple of weeks I've been working on a deployment tool for a client. It's quite a doozy and -as far as I know- there isn't anything out there like this (and I looked!). I wanted to talk about what it is, how it works and what I ran into.
