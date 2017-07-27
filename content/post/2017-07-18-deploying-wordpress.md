@@ -8,11 +8,11 @@ The last couple of weeks I've been working on a deployment tool for a client. It
 
 <br/>
 ## A brief history of WordPress deployment
-There are lots of ways to deploy a WordPress website. The most popular of which is (sadly) still FTP, as far as I can tell. Rolling out updates with Git or SVN is second and way down on that list are automated tools like [WP Deploy](https://github.com/Mixd/wp-deploy) and [Bedrock](https://roots.io/bedrock/) which use Capistrano. I've been working with GIT and Capistrano deployment for quite some time now, but they weren't sufficient enough for my clients wishes. And that all had to do with WordPress multisite.
+There are lots of ways to deploy a WordPress website. The most popular of which is (sadly) still FTP, as far as I can tell. Rolling out updates with Git or SVN is second and way down on that list are automated tools like [WP Deploy](https://github.com/Mixd/wp-deploy) and [Bedrock](https://roots.io/bedrock/) which use Capistrano. I've been working with GIT and Capistrano deployment for quite some time now, but they weren't sufficient for my clients wishes. And that all had to do with WordPress multisite.
 
 <br/>
 ## The Project
-We created a multisite installation where the main site could broadcast content down to it's sub sites. These subsites are being sold to the clients of our client at a very competative price, along with the added benefit of free content pushed from the main site that's being maintained by the branch organization they are buying the site from. 
+We created a multisite installation where the main site could broadcast content down to it's sub sites. These subsites are being sold to the clients of our client at a very competitive price, along with the added benefit of free content pushed from the main site that's being maintained by the branch organization they are buying the site from. 
 
 The sub sites all have their own unique child-theme and they all work with our [Sections](http://get-cuisine.cooking/?page_id=115) tool, to which we've added pre-generated sections for things like Call to Actions, Hero's and news collections. This enables rapid page and layout creation. All of these sections have up to 5 different possible styles, so when combining different styles each time, each sub-site, while fully generated with existing code, truly maintains a unique feeling.
 
