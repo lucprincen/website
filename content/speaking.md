@@ -9,14 +9,14 @@ layout = "speaking"
 
 # Upcoming Speaking Events
 
-*November 17th, 2017: WordPress Meetup Frysland*
-Next Level Css: Working with CSS Grid
+*November 17th, 2017: WordPress Meetup Frysland*<br/>
+Next Level Css: Working with CSS Grid<br/><br/>
 
-*November 25th, 2017: WordCamp Utrecht*
-An imposters journey through "real" development
+*November 25th, 2017: WordCamp Utrecht*<br/>
+An imposters journey through "real" development<br/><br/>
 
-*December 13th, 2017: WordPress Meetup Nijmegen*
-Next Level Css: Working with CSS Grid
+*December 13th, 2017: WordPress Meetup Nijmegen*<br/>
+Next Level Css: Working with CSS Grid<br/><br/><br/>
 
 
 ## Past speaking events
