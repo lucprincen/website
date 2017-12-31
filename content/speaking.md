@@ -31,7 +31,7 @@ Next Level Css: Four new CSS techniques<br/><br/>
 *Januari 30th, 2017: WordPress Meetup Rotterdam*<br/>
 Thinking outside the box(model): Working with Flexbox<br/><br/>
 
->*WordPress Meetup Amersfoort* - 18-11-2016<br/>
+*WordPress Meetup Amersfoort* - 18-11-2016<br/>
 Next Level Css: Four new CSS techniques<br/><br/>
 
 *WordCamp Nederland 2016, Utrecht* - 14-10-2016<br/>
