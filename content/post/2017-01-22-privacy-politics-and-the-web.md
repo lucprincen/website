@@ -21,4 +21,4 @@ Big data can be extremely usefull in government; It can give a birds-eye view of
 ## Open source
 I'm going to bring in one of my favorite quotes; "Open Source isn't just the future of technology, it's the future of society" - Matt Mullenweg.
 
-Being open and transparent with your procress and your calculations is crucial for us civilians. We need to be able to check if our data is safe with you and if the calculations you run on it are accurate. Especially when they begin to drive decision making.wifi
+Being open and transparent with your process and your calculations is crucial for us civilians. We need to be able to check if our data is safe with you and if the calculations you run on it are accurate. Especially when they begin to drive decision making.wifi

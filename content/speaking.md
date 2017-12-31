@@ -9,17 +9,76 @@ layout = "speaking"
 
 # Upcoming Speaking Events
 
-*November 17th, 2017: WordPress Meetup Frysland*<br/>
-Next Level Css: Working with CSS Grid<br/><br/>
+In March of 2018 there'll be a few new events, which I can't talk about yet. 
 
-*November 25th, 2017: WordCamp Utrecht*<br/>
-An imposters journey through "real" development<br/><br/>
+## Past speaking events
 
 *December 13th, 2017: WordPress Meetup Nijmegen*<br/>
 Next Level Css: Working with CSS Grid<br/><br/><br/>
 
+*November 25th, 2017: WordCamp Utrecht*<br/>
+An imposters journey through "real" development<br/><br/>
 
-## Past speaking events
+*November 14th, 2017: WordPress Meetup Frysland*<br/>
+Next Level Css: Working with CSS Grid<br/><br/>
 
-I haven't had time yet to upload them here, but you can check out a pretty complete overview [on the Chef du Web website](https://www.chefduweb.nl/agenda/).
+*September 2nd, 2017: WordCamp Varna, Bulgaria*<br/>
+Next Level Css: Working with CSS Grid<br/><br/>
+
+*March 1st, 2017: WordPress Meetup Heerhugowaard*<br/>
+Next Level Css: Four new CSS techniques<br/><br/>
+
+*Januari 30th, 2017: WordPress Meetup Rotterdam*<br/>
+Thinking outside the box(model): Working with Flexbox<br/><br/>
+
+>*WordPress Meetup Amersfoort* - 18-11-2016<br/>
+Next Level Css: Four new CSS techniques<br/><br/>
+
+*WordCamp Nederland 2016, Utrecht* - 14-10-2016<br/>
+No plugins required: the tale of a DIY agency<br/><br/>
+
+*WordCamp Antwerp 2016, Belgium* - 04-06-2016<br/>
+Realtime WordPress: working with Websockets<br/><br/>
+
+*WordCamp Europe 2016, Vienna Austria* - 24-06-2016<br/>
+Thinking outside the box(model): Working with Flexbox<br/><br/>
+
+*WordPress Meetup Nijmegen* - 09-03-2016<br/>
+Client case for Chef du Web<br/><br/>
+
+*WordPress Meetup Bruxelles, Belgium* - 22-02-2016<br/>
+Thinking outside the box(model): Working with Flexbox<br/><br/>
+
+*WordPress Meetup Groningen* - 20-01-2016<br/>
+Thinking outside the box(model): Working with Flexbox<br/><br/>
+
+*WordPress Meetup Enschede* - 15-12-2015<br/>
+Thinking outside the box(model): Working with Flexbox<br/><br/>
+
+*WordCamp Sofia 2015, Bulgaria* - 24-10-2015<br/>
+Thinking outside the box(model): Working with Flexbox<br/><br/>
+
+*WordPress Meetup Zwolle* - 13-10-2015<br/>
+Thinking outside the box(model): Working with Flexbox<br/><br/>
+
+*WordCamp Nederland 2015, Utrecht* - 26-09-2015<br/>
+The Javascript Theme - Business in the front, WordPress in the back<br/><br/>
+
+*WordCamp Köln 2015, Germany* - 06-06-2015<br/>
+The Javascript Theme - Business in the front, WordPress in the back<br/><br/>
+
+*WordPress Meetup Tilburg* - 14-01-2015<br/>
+Seven deadly sins in UX<br/><br/>
+
+*WordCamp Nederland 2014, Utrecht* - 10-05-2014<br/>
+WordPress applicaties met Backbone.js<br/><br/>
+
+*WordPress Meetup Rotterdam* - 10-02-2014<br/>
+WordPress als app platform<br/><br/>
+
+*WordPress Meetup Nijmegen* - 31-10-2013<br/>
+Creating secure WordPress plugins<br/><br/>
+
+*WordPress Cafe Utrecht* - 18-09-2013<br/>
+Diving into the WordPress hearbeat API<br/><br/>
 
