@@ -8,7 +8,8 @@ It's been half a year since I started [freelancing again](/time-for-something-ne
 
 All in all it's been a pretty good half year, with a lot of new stuff learned. I got to dive a lot deeper into [ES6](http://es6-features.org/#Constants), worked more with other frameworks than WordPress (like [Vue](https://vuejs.org/) and [Laravel](https://laravel.com)) and played around with more server- and local tools like [Docker](https://www.docker.com/) and [Valet](https://laravel.com/docs/5.5/valet). 
 
-In short; I've learned a bunch! I also got more time to work on my own tools which are now finally nearing completion. And it's made me realise something else: I should be running big projects on my own. I've been very thankfull for the big projects I've gotten to work on, but now that I'm solely responsible for them (and work on my own tools goes right out the window when I've made a mistake), I've come to the conclusion that I can't really work on large projects by myself.
+In short; I've learned a bunch! I also got more time to work on my own tools which are now finally nearing completion. And it's made me realise something else: I shouldn't be running big projects on my own. I've been very thankfull for the big projects I've gotten to work on, but now that I'm solely responsible for them, I've come to the conclusion that I can't really work on large projects by myself.
+This is mainly because I can't garantee the deadline, but also because -if I make a mistake- my own projects suffer because of this.
 
 The risk for both me, and the client, is just too big. I'll be completing all projects I still have in the pipeline and after that I'll definitely be taking it a bit easier with the client work and focussing on getting my own projects done first.
 
