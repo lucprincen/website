@@ -1,8 +1,8 @@
-+++
+---
 title: "Automation with WordPress"
-date: 2018-01-04T17:11:29+01:00
+date: 2018-01-06T17:11:29+01:00
 draft: true
-+++
+---
 
 ## About frontend tools
 Tooling, especially in the CSS-world started to become popular around 2010 in the form of CSS Preprocessors like Less and Sass (although Sass has been around since 2006). 
