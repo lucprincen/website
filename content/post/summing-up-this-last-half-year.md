@@ -1,6 +1,6 @@
 +++
 Categories = ["Development", "Freelancing"]
-date = "2018-01-04T17:51:59+02:00"
+date = "2018-01-02T17:51:59+02:00"
 title = "Summing up this last half year"
 +++
 
