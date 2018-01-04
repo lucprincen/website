@@ -90,7 +90,7 @@ Just like the Visual Studio Code package, this Atom module uses the __/snippets_
 
 The idea is that you create a snippet for each color or font you'd like to include in your project:
 
-{{< highlight json >}}
+{{< highlight js >}}
     "Error Color": {
 		"prefix": "$error",
 		"body": "#9D3449"
