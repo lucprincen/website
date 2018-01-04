@@ -54,7 +54,7 @@ Standard WordPress plugins that are available via wordpress.org already have a f
 
 WP Migrate DB Pro offers a fantastic solution for composer out-of-the-box. They provide their own repository to which you can post your license-key. With that added, you can safely download the latest version:
 
-<pre class="language-js"><code>
+```json
 "wp-migrate-db-pro": {
     "type": "package",
     "package": {
@@ -70,14 +70,14 @@ WP Migrate DB Pro offers a fantastic solution for composer out-of-the-box. They 
         }
     }
 },
-</code></pre>
+```
 
 <br>
 
 
 Gravity Forms was a bit trickier as they generally only provide a .zip file for paying members. However; there are Github repo's available which can provide the plugin for our Composer setup, even if the plugin itself doesn't have a composer.json
 
-<pre class="language-js"><code>
+```json
 "gravity-forms": {
     "type": "package",
     "package": {
@@ -91,7 +91,7 @@ Gravity Forms was a bit trickier as they generally only provide a .zip file for 
         }
     }
 },
-</code></pre>
+```
 <br/>
 
 The eventual composer file now loads in dependencies from 5 different locations and composer-repositories. WP CLI handles all plugin activations automatically, and sets our license keys for WP Migrate DB Pro and Gravity Forms. 
