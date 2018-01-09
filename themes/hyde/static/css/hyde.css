@@ -365,3 +365,11 @@ a.sidebar-nav-item:focus {
 .cta .button:hover{
   background: #444;
 }
+
+small.caption{
+    font-size: .6em;
+    margin: -15px 0 20px 0;
+    float: left;
+    display: block;
+    width: 100%;
+}

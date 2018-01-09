@@ -3,7 +3,7 @@ title: "CSS without Preprocessors"
 date: 2018-01-04T17:11:29+01:00
 ---
 
-So last week I tweeted this:
+So last week I had tweeted this:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Honestly, CSS has gotten so much easier compared to 10 years ago. <br><br>If you&#39;ve always been convinced you can&#39;t do CSS; I dare you to give it a try now! If you&#39;re scared to try it; let me know how I can help. I&#39;m working on putting together a workshop for just this occasion! 😬🔥🔥</p>&mdash; Luc Princen (@LucP) <a href="https://twitter.com/LucP/status/946838199556558848?ref_src=twsrc%5Etfw">December 29, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
