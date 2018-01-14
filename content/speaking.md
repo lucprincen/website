@@ -19,7 +19,7 @@ Ditch your framework! Magical layouts with modern CSS<br/><br/>
 ## Past speaking events
 
 *December 13th, 2017: WordPress Meetup Nijmegen*<br/>
-Next Level Css: Working with CSS Grid<br/><br/><br/>
+Next Level Css: Working with CSS Grid<br/><br/>
 
 *November 25th, 2017: WordCamp Utrecht*<br/>
 An imposters journey through "real" development<br/><br/>
