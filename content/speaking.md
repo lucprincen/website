@@ -9,7 +9,12 @@ layout = "speaking"
 
 # Upcoming Speaking Events
 
-In March of 2018 there'll be a few new events, which I can't talk about yet. 
+In 2018 there'll be a few new events, which I can't talk about yet, but here's what I know so far:
+
+*March 3rd, 2018: WordCamp Oslo, Norway*<br/>
+Ditch your framework! Magical layouts with modern CSS<br/><br/>
+
+---
 
 ## Past speaking events
 
