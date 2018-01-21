@@ -3,7 +3,7 @@ title: "An Imposters Journey"
 date: 2018-01-18T09:06:39+01:00
 ---
 
-![An imposter's journey through "real" development](/images/imposter1.png)
+![An imposter's journey through "real" development](/images/imposter1.jpg)
 <small class="caption">Illustration: Hawkins, Arthur, ca. 1940</small>
 
 ## TLDR;
@@ -32,7 +32,7 @@ After college, however, I started to freelance as a developer as well. I had lit
 
 In the late 70s, Docter Pauline Clance first published a paper on what she would call the imposter phenomenon. In it, she described this vicious cycle about how seemingly regular work could eventually make you feel like a worthless bag of dirt.
 
-![The imposter syndrome cycle. Task - Doubt - Finish - Ignore credits - Task ](/images/imposter-cycle.png)
+![The imposter syndrome cycle. Task - Doubt - Finish - Ignore credits - Task ](/images/imposter-cycle.jpg)
 <small class="caption">Diagram: Pauline Clance</small>
 
 There's a huge group of people that will recognize something in this cycle. In fact, [according to the journal of behavioural science, about 70% of millennials experience some form of the imposter syndrome](https://thehustle.co/why-70-percent-of-millennials-have-impostor-syndrome)
@@ -41,7 +41,7 @@ There's a huge group of people that will recognize something in this cycle. In f
 
 I personally think that working in development can make you a lot more susceptible to imposter syndrome. Even with very little skills you're soon seen by many as someone who can do something magical. This usually means that real-world assignments are pushed on you very early. This is a great way to learn, but if you combine it with actual stress of actual paying customers, you're looking at a recipe for disaster. 
 
-![In the land of the blind the one eyed man is king](/images/imposter2.png)
+![In the land of the blind the one eyed man is king](/images/imposter2.jpg)
 
 The barrier of entry is pretty low. Combine that with an environment that's constantly asking you to keep learning and you've got a breeding ground for fraudulent feelings. 
 
@@ -58,7 +58,7 @@ Getting out into the world what you have recently learned does a few things: It 
 **2. Stop comparing yourself.**<br/>
 Everyone is different and everyone specializes in something. Besides; there's a pretty good chance the person you're comparing yourself with has no clue what he/she is doing either.
 
-![Say thank you](/images/imposter3.png)
+![Say thank you](/images/imposter3.jpg)
 
 **3. Say thank you**<br/>
 Very simple, but shrugging off compliments doesn't make you own your achievements. No one is going to think you're an egomaniac for accepting a sincere compliment.
@@ -83,7 +83,7 @@ There's no better place to get feedback on your coding skills than an open sourc
 **3. Write queries**
 I don't know about you but I've almost exclusively worked with frameworks that got me away from the database and writing queries. While this is great in about 80% of the cases, there are always going to be niche problems that can best be solved by a good ol' query. Try to write some of these things yourself and you'll find that you start picking the hacky solutions less and less.
 
-![Work with linux](/images/imposter4.png)
+![Work with linux](/images/imposter4.jpg)
 
 **4. Work with Linux**
 Most of our sites and application run on a version of this open source operating system. It's only natural to get to know it more. I've worked with Linux for the past year and It has made me a lot faster on my Mac as well.
