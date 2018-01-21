@@ -83,10 +83,10 @@ I though a bunch on how to create the same effect our CSS variables and mixins w
 With the right packages we can even add snippets per project. Here are some packages I've found:
 
 **[Visual Studio Code - Project Snippets](https://marketplace.visualstudio.com/items?itemName=rebornix.project-snippets)**
-This option is actually perfect for our problem: project related snippets are added to the __/snippets__ directory in your project.
+This option is actually perfect for our problem: project related snippets are added to the <ins>/snippets</ins> directory in your project.
 
 **[Atom](https://atom.io/packages/modular-snippets)**
-Just like the Visual Studio Code package, this Atom module uses the __/snippets__ folder to store your custom project snippets. 
+Just like the Visual Studio Code package, this Atom module uses the <ins>/snippets</ins> folder to store your custom project snippets. 
 
 The idea is that you create a snippet for each color or font you'd like to include in your project:
 

@@ -6,7 +6,7 @@ title = "Hire Me"
 type = "page"
 +++
 
-<p class="message">
+<p class="welcome">
 
 Hi There! My name is Luc Princen, I live in the Netherlands with my wife and son. I like creating stuff for the web &amp; solving problems. 
 </p>
@@ -15,7 +15,10 @@ Hi There! My name is Luc Princen, I live in the Netherlands with my wife and son
 
 ## Services
 
-I'm offering three types of services. I love solving problems related to development and design. I'm a stickler for quality, documentation and maintainable code. If you care about those things too, then I'd love to work with you. I'm **currently available to discuss projects starting in May, 2018**, <a href="mailto:hi@lucp.nl">let me know how I can help you</a>
+I'm offering three types of services. I love solving problems related to development and design. I'm a stickler for quality, documentation and maintainable code. If you care about those things too, then I'd love to work with you. 
+    
+> I'm currently available to discuss projects starting in April, 2018 
+<a href="mailto:hi@lucp.nl" class="caption">let me know how I can help you</a>
 
 <div class="block-container">
 	<div class="block">
@@ -31,7 +34,7 @@ I'm offering three types of services. I love solving problems related to develop
 
 	</div>
 	<div class="block">
-		<h3>Web apps<br/>&amp; Games</h3>
+		<h3>Web apps &amp; Games</h3>
 
 		<p>I have about 4 years of experience creating (online) games and web apps. I like working with tools like Laravel and Meteor and am proficient in some Javascript canvas libraries. If you have a crazy idea kicking around: let me know! Let's be creative together!</p>
 

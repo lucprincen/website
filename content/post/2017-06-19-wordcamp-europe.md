@@ -1,9 +1,9 @@
-+++
-Categories = ["Conference","WordPress"]
-Description = "The adventures of LucP during WordCamp Europe 2017"
-date = "2017-06-19T16:23:41+02:00"
-title = "WordCamp Europe 2017"
-+++
+---
+Categories: ["Conference","WordPress"]
+Description: "The adventures of LucP during WordCamp Europe 2017"
+date: "2017-06-19T16:23:41+02:00"
+title: "WordCamp Europe 2017"
+---
 
 The past few days have been filled with a lot of friends, laughs, talks, ideas and yeah, a lot of beers as well. WordCamp Europe 2017 in Paris was a blast, but it's not over for me until [I blog](https://www.chefduweb.nl/2013/10/wordcamp-europe-2013/) [about it](https://www.chefduweb.nl/2016/07/wordcamp-europe-2016/) (although I forgot to blog about WordCamp Europe 2014). So here goes... after last year it seems appropriate to, once again, start with a yawning selfie of me getting up way to early for the trip:
 

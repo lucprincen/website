@@ -1,17 +1,15 @@
-+++
-Description = "About Luc Princen - Developer & Designer"
-date = "2017-06-10T19:38:52+02:00"
-menu = "main"
-title = "Speaking"
-type = "page"
-layout = "speaking"
-+++
+---
+Description: "I love to talk about stuff..."
+date: "2017-06-10T19:38:52+02:00"
+title: "Speaking"
+type: "page"
+---
 
-# Upcoming Speaking Events
+## Upcoming Speaking Events
 
 In 2018 there'll be a few new events, which I can't talk about yet, but here's what I know so far:
 
-*March 3rd, 2018: WordCamp Oslo, Norway*<br/>
+**March 3rd, 2018: WordCamp Oslo, Norway**<br/>
 Ditch your framework! Magical layouts with modern CSS<br/><br/>
 
 ---

@@ -1,9 +1,9 @@
-+++
-Description = ""
-Tags = ["Development","sass"]
-date = "2017-06-12T22:22:24+02:00"
-title = "Sass Pixelart"
-+++
+---
+Description: "Creating something gloriously useless with Sass"
+Tags: ["Development","sass"]
+date: "2017-06-12T22:22:24+02:00"
+title: "Sass Pixelart"
+---
 
 Last week I watched a fantastic talk by [Una Kravets](https://twitter.com/Una) about creating a CSS game. She hacked together a demo, live on stage, during [CSS Conf EU](https://2017.cssconf.eu/). The thing that got me hooked on the talk was the first part: creating pixelart in CSS by (mis)using box-shadow. 
 

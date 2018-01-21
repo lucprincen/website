@@ -1,15 +1,11 @@
-+++
-Description = "About Luc Princen - Developer & Designer"
-date = "2017-06-10T19:38:52+02:00"
-menu = "main"
-title = "About"
-type = "page"
-layout = "page"
-+++
+---
+date: "2017-06-10T19:38:52+02:00"
+title: "About"
+type: "page"
+---
 
 
-<p class="message">
-
+<p class="welcome">
 Hi There! My name is Luc Princen, I live in the Netherlands with my wife and son. I like creating stuff for the web &amp; solving problems. 
 </p>
 

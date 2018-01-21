@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-06-07T00:00:00Z
 title: Time for something new.
 url: /time-for-something-new/

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2017-06-09T00:00:00Z
 title: On networking
 url: /on-networking/
