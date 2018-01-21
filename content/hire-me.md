@@ -1,13 +1,11 @@
 +++
 Description = ""
 date = "2017-06-11T11:02:47+02:00"
-menu = "main"
 title = "Hire Me"
 type = "page"
 +++
 
 <p class="welcome">
-
 Hi There! My name is Luc Princen, I live in the Netherlands with my wife and son. I like creating stuff for the web &amp; solving problems. 
 </p>
 
