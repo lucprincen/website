@@ -1,0 +1,48 @@
+h1, h2, h3, h4, h5{
+    font-family: 'Alegreya';
+    font-weight: 700;
+    line-height: 150%;
+}
+
+h1{ font-size: 2.4em }
+h2{ font-size: 2em }
+h3{ font-size: 1.6em }
+
+
+a{
+    color: white;
+    text-decoration-skip: ink;
+    &:hover{ color: $black; }
+}
+
+
+p{
+    font-family: 'tahoma';
+    font-size: 1em;
+    padding-bottom: 1em;
+}
+
+.button{
+    padding: 8px 16px;
+    font-size: .8em;
+    background: white;
+    color: $orange;
+    border-radius: 4px;
+    text-decoration: none;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+    cursor: pointer;
+    
+    &:hover{
+        background: $green;
+        color: white;
+    }
+    i{
+        display: inline-block;
+        margin: -3px -6px 0 0;
+        vertical-align: 9%;
+    }
+
+    &.icon-left i{
+        margin: -3px 0 0 -6px;
+    }
+}

@@ -1,0 +1,85 @@
+.contact .socials{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+
+    &:after{
+        flex: 1 0 700px;
+        content: '';
+        height: 4px;
+        margin-top: 30px;
+        background: linear-gradient( to right, darken( $red, 20% ) 0%, darken( $orange, 20% ) 100%); 
+    }
+
+    figure{
+        width: 50px;
+        height: 50px;
+        margin-right: 1em;
+        svg{
+            width: 100%;
+            height: 100%;
+            path{ fill: $gold !important; }
+        }
+    }
+
+    a:hover figure svg path{
+        fill: $green !important;
+    }
+}
+
+.contact-form{
+    width: 80%;
+    margin: 30px auto;
+    .field{
+        display: block;
+        margin-bottom: 20px;
+
+        label{
+            width: 100%;
+            display: block;
+            font-size: .8em;
+            font-family: 'Alegreya';
+        }
+
+        input, textarea{
+            width: 100%;
+            padding: 10px 20px;
+            font-size: 1em;
+            border: 0;
+            background: $code;
+            font-family: monospace;
+            color: white;
+        }
+
+        textarea{
+            min-height: 200px;
+        }
+    }
+
+    .button-wrapper{
+        display: flex;
+        justify-content: flex-end;
+
+        .button{
+            border: 0;
+            font-size: 1em;
+            padding: 10px 20px;
+        }
+    }
+}
+
+
+@media only screen and ( min-width: 768px ){
+    .contact-form{
+        .field{
+            input, textarea{
+                font-size: 1.3em;
+            }
+        }
+        .button-wrapper .button{
+            font-size: 1.3em;
+        }
+    }
+}

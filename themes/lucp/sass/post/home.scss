@@ -1,0 +1,160 @@
+#main.home{
+                          
+    img{
+        display: none;
+    }
+
+    h1{
+        font-size: 3.5em;
+        color: $gold;
+        text-align: left;
+        text-shadow: 0 1px 0 darken( $gold, 35% ),
+               0 2px 0 darken( $gold, 35% ),
+               0 3px 0 darken( $gold, 35% ),
+               0 4px 0 darken( $gold, 35% ),
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.2),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.2),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+    }
+
+    .intro{
+        font-size: 1em;
+        color: rgba(0,0,0,.6);
+        padding-bottom: 2em;
+    }
+
+    .stat{
+        transition: .3s ease all;
+        padding: 6px 12px;
+        background: white;
+        box-shadow: 0 0 10px rgba(0,0,0,.3);
+        margin-bottom: 10px;
+        text-decoration: none;
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+
+        figure{
+            grid-area: icon;
+            align-self: center;
+            text-align: center;
+            height: 60px;
+            width: 60px;
+            line-height: 60px;
+            vertical-align: middle;
+
+            svg{
+                margin: 10% 0 0 -10%;
+                width: 80%;
+                height: 80%;
+            }
+        }
+
+        strong{
+            grid-area: label;
+            font-weight: 700;
+            color: $red;
+            font-family: 'Alegreya';
+            font-style: italic;
+            padding: 0 15px;
+        }
+
+        span{
+            grid-area: link;
+            color: $orange;
+            flex: 1 0 100%;
+            padding-left: 20%;
+        }
+
+        &:hover{
+            transform: rotate3d(0, 0, 0, 0);
+            background: $red;
+
+            figure svg path{
+                fill: white;
+            }
+            
+            strong, span{
+                color: white;
+            }
+        }
+    }
+}
+
+@media only screen and ( min-width: 550px ){
+    #main.home{
+        .stat span{
+            flex: auto;
+            padding-left: 0;
+        }
+    }   
+}
+
+
+@media only screen and (min-width: 1100px){
+    #main.home{
+        max-width: 80%;
+        display: grid;
+        perspective: 400px;
+
+        grid-template-columns: 1fr 1fr 1fr 200px;
+        grid-template-areas:    "title title title title"
+                                "intro intro image image"
+                                "post post image image"
+                                "speak speak image image"
+                                "av av image image";
+        img{
+            display: block;
+            grid-area: image;
+            max-width: 80%;
+            transform: rotate3d(0, -1, 0, 15deg);
+            align-self: center;
+        }
+
+        h1{
+            grid-area: title;
+        }
+
+        .intro{
+            grid-area: intro;
+            max-width: 70%;
+        }
+
+        .stat{
+            max-width: 70%;
+            align-self: flex-end;
+            transform: rotate3d(0, 1, 0, 5deg);
+            display: grid;
+            margin-left: 30px;
+            grid-template-columns: 60px 1fr;
+            grid-template-rows: 1fr 1fr;
+            grid-template-areas: "icon label"
+                                "icon link";
+
+            figure{
+                height: auto;
+                width: auto;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                svg{
+                    margin: 0 0 0 -10px;
+                    width: 60%;
+                    height: 60%;
+                }
+            }
+
+            strong{
+                padding: 0;
+            }
+
+            &.last-post{ grid-area: post; }
+            &.upcomming-talk{ grid-area: speak; }
+            &.availability{ grid-area: av; }
+        }
+    }
+}

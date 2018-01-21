@@ -1,0 +1,15 @@
+<div class="actions pagination">
+    {{ if .PrevInSection }}
+    <a href="{{ .PrevInSection.RelPermalink }}" class="button icon-left">
+        <i>&#9666;</i>
+        {{ .PrevInSection.Title }}
+    </a>
+    {{ end }}
+
+    {{ if .NextInSection }}
+        <a href="{{ .NextInSection.RelPermalink }}" class="button">
+            {{ .NextInSection.Title }}
+            <i>&#9656;</i>
+        </a>
+    {{ end }}
+</div>

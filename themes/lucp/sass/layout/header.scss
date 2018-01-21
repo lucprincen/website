@@ -1,0 +1,115 @@
+#header{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    padding: 20px 30px;
+    h1 a{
+        font-family: 'Alegreya';
+        font-weight: 900;
+        font-style: italic;
+        color: $red;
+        text-decoration: none;
+        font-size: .8em;
+    }
+
+    .menu{
+        flex: 1 0 100%;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        height: 0;
+        overflow: hidden;
+        transition: .3s ease all;
+
+        &.active{
+            padding: 200px 0;
+            margin-top: 1.2em;
+        }
+        a{
+            font-family: 'Alegreya';
+            font-weight: 400;
+            font-size: 1.5em;
+            text-decoration: none;
+            color: $blue;
+            margin: 0 0 1.2em 0;
+            &:hover{
+                color: $red;
+            }
+        }
+    }
+
+    .menu-button{
+        border: 3px solid $green;
+        display: flex;
+        flex-flow: column nowrap;
+        padding: 10px;
+        width: 55px;
+        height: 63px;
+        justify-content: flex-end;
+        position: relative;
+        cursor: pointer;
+        i{
+            width: 100%;
+            height: 4px;
+            margin-bottom: 4px;
+            background: $green;
+            transition: .3s ease all;
+            width: 30px;
+            margin: 0 0 5px 0;
+        }
+        span{
+            color: $green;
+        }
+
+        &:hover{
+            background: $green;
+            i{ background: white; }
+            span{ color: white; }
+        }
+
+        &.active{
+            i{
+                position: absolute;
+                transform: rotate( 45deg );
+                top: 35px;
+                left: 20px;
+                margin: -18px 0 0 -10px;
+
+            }
+            i:nth-child(2){
+                transform: rotate( -45deg );
+            }
+            i:nth-child(3){
+                display: none;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 960px){
+    #header{
+
+        .menu-button{ display: none; }
+        .menu{
+            flex: 1;
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: flex-end;
+            align-items: center;
+            height: auto;
+            overflow: visible;
+            a{ margin: 0 1em 0 0;}
+            &.active{ padding: 0; }
+        }
+    }
+}
+
+@media only screen and (min-width:1300px){
+    #header .menu{ 
+        justify-content: center;
+        a{ margin-right: 2em; }
+    }
+}

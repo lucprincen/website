@@ -1,0 +1,18 @@
+<!-- Header -->
+<header id="header">
+    <h1><a href="{{ "/" | relURL }}">@LucP</a></h1>
+    <button class="menu-button">
+        <i></i>
+        <i></i>
+        <i></i>
+        <span>Menu</span>
+    </button>
+    <nav class="menu">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">
+            <i class="{{ .Identifier }}">&nbsp;</i>{{ .Name }}
+        </a>
+        {{ end }}
+    </nav>
+    
+</header>

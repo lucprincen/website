@@ -1,0 +1,50 @@
+{{ partial "general-title" . }} 
+{{ partial "header" . }} 
+{{ partial "navbar" . }}
+
+<!-- Main -->
+<div id="main" class="contact">
+    <article class="post">
+        <header>
+            <div class="title">
+                <h1>
+                    <a href="/contact/">Contact</a>
+                </h1>
+                <p>Feel free to contact me with questions!</p>
+            </div>
+        </header>
+        <section class="socials">
+            <a href="https://www.twitter.com/lucp" title="LucP on Twitter" target="_blank">
+                <figure>
+                {{ readFile "static/images/icons/twitter.svg" | safeHTML }}
+                </figure>
+            </a>
+            <a href="https://www.github.com/lucprincen" title="LucP on GitHub" target="_blank">
+                <figure>
+                {{ readFile "static/images/icons/github.svg" | safeHTML }}
+                </figure>
+            </a>
+        </section>
+        <section class="contact-form">
+            <form name="contact" netlify>
+
+                <div class="field">
+                    <label for="name">Your Name:</label>
+                    <input type="text" name="name" id="name">
+                </div>
+                <div class="field">
+                    <label for="email">Your Email:</label>
+                    <input type="email" name="email" id="email">
+                </div>
+                <div class="field">
+                    <label for="message">Your message:</label>
+                    <textarea name="message" id="message"></textarea>
+                </div>
+                <div class="button-wrapper">
+                    <button type="submit" class="button">Send</button>
+                </div>
+            </form>
+        </section>
+    </article>
+</div>
+{{ partial "footer" . }}

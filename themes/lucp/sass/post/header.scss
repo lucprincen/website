@@ -1,0 +1,48 @@
+.post{
+    header{
+        h1, h2, h3{
+            text-align: center;
+            padding-bottom: 10px;
+            line-height: 130%;
+            a{
+                font-family: 'Alegreya';
+                font-weight: 700;
+                font-style: italic;
+                text-shadow: 2px 2px 5px rgba(0,0,0,.3);
+                color: white;
+                text-decoration: none;
+            }
+        }
+
+         .title p{
+            color: $darkBlue;
+            font-family: 'Alegreya';
+            font-weight: 400;
+            font-style: italic;
+            font-size: 1.3em;
+            text-align: center;
+        }
+
+        .meta{
+            display: flex;
+            justify-content: center;
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: .8em;
+            padding: 0 0 3em 0;
+            color: $black;
+
+            time, p{
+                padding: .2em .4em;
+                background: $gold;
+                font-size: .8em;
+                line-height: 100%;
+                color: $code;
+                border-radius: .3em;
+            }
+
+            time{
+                margin-right: .5em;
+            }
+        }
+    }
+}

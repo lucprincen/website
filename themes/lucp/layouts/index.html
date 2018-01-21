@@ -1,0 +1,48 @@
+{{ partial "header" . }}
+    {{ $.Scratch.Set "shareNav" true }}
+    {{ partial "navbar" . }}
+    <!-- Main -->
+    <div id="main" class="home">
+        
+        <img src="/images/luc.jpg" class="align-right" alt="This is me.">
+
+        <h1>Hi there! I'm Luc</h1>
+        <p class="intro">
+            I'm an independent developer, designer and speaker.
+            I'm based in The Netherlands but I work with clients across the globe.
+            I specialize in WordPress- and frontend development and <a href="/hire-me">am available for hire</a>
+        </p>
+        
+        {{ range first 1 (where .Site.Pages "Type" "post") }}
+        <a class="last-post stat" href="{{ .RelPermalink }}">
+            <figure>
+                {{ readFile "static/images/icons/paperclip.svg" | safeHTML }}
+            </figure>
+            <strong>Latest blogpost</strong>   
+            <span>
+                {{ .Title }} 
+            </span>
+        </a>
+        {{ end }}
+        <a class="upcomming-talk stat" href="/speaking">
+            <figure>
+                {{ readFile "static/images/icons/bullhorn.svg" | safeHTML }}
+            </figure>
+            <strong>Upcoming talk</strong>
+            <span>
+                March 3rd 2018: WordCamp Oslo
+            </span>
+        </a>
+        <a class="availability stat" href="/hire-me">
+            <figure>
+                {{ readFile "static/images/icons/clock.svg" | safeHTML }}
+            </figure>
+            <strong>Available for work</strong>
+            <span>
+                Starting in April, 2018
+            </span>
+        </a>
+
+
+    </div>
+{{ partial "footer" . }}

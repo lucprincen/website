@@ -1,0 +1,12 @@
+{{ partial "general-title" . }}
+
+{{ partial "header" . }}
+    {{ partial "navbar" . }}
+    <!-- Main -->
+    <div id="main">
+        {{ range .Data.Pages }}
+            {{ .Render "content-list" }}
+        {{ end }}
+
+    </div>
+{{ partial "footer" . }}

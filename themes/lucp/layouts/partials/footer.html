@@ -1,0 +1,32 @@
+    <footer id="footer">
+        <p class="copyright">
+            <span>&copy; {{ .Site.LastChange.Year }} @LucP</span>
+            <small>Build with
+                <a href="//gohugo.io" target="_blank">Hugo</a> and hosted at
+                <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+            </small>
+        </p>
+        <nav class="socials">
+            <a href="https://twitter.com/lucp" target="_blank">Twitter</a>
+            <a href="https://github.com/lucprincen" target="_blank">GitHub</a>
+            <a href="/contact">E-mail</a>
+        </nav>
+    </footer>
+    <!-- Scripts -->
+
+    {{ if isset .Site.Params "customjs" }}
+      {{ $.Scratch.Set "jsFiles" .Site.Params.customJS }}
+    {{ else }}
+      {{ $.Scratch.Set "jsFiles" false }}
+    {{ end }}
+
+    <!-- If the value "default" is passed into the param then we will first
+     load the standard js files associated with the theme -->
+    {{ if or (in ($.Scratch.Get "jsFiles") "default") (eq ($.Scratch.Get "jsFiles") false) }}
+      <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+      <script src="{{ "js/util.js" | relURL }}"></script>
+      <script src="{{ "js/main.js" | relURL }}"></script>
+      <script src="{{ "js/backToTop.js" | relURL }}"></script>
+    {{ end }}
+  </body>
+</html>

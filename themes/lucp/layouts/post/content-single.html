@@ -1,0 +1,11 @@
+<article class="post">
+  {{ .Render "header" }}
+
+  {{ .Render "featured" }}
+  <div id="content">
+    {{ .Content }}
+  </div>
+
+</article>
+{{ .Render "comments" }}
+{{ .Render "prev-next" }}

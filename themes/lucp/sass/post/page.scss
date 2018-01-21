@@ -1,0 +1,83 @@
+.post{
+    .welcome{
+        color: $darkBlue;
+        font-family: 'Alegreya';
+        font-weight: 400;
+        font-style: italic;
+        font-size: 1.3em;
+        line-height: 150%;
+        text-align: center;
+    }
+
+    .cta{
+        background: white;
+        box-shadow: 0 0 10px rgba(0,0,0,.3);
+        display: flex;
+        flex-flow: row wrap;
+        padding: 15px;
+        justify-content: space-around;
+        margin-bottom: 1.5em;
+
+        h3{
+            font-size: 1.4em;
+            flex: 1 0 100%;
+            text-align: center;
+            padding-bottom: 10px;
+        }
+
+        .button{
+            background: $red;
+            color: white;
+        }
+    }
+}
+
+
+@media only screen and (min-width:840px){
+    .post .cta{
+        width: 70vw !important;
+        margin-left: calc(50% - 35vw);
+        margin-right: calc(50% - 35vw);
+        justify-content: space-between;
+        h3{ 
+            flex: auto;
+            text-align: left;
+            padding-bottom: 0;
+        }
+    }
+}
+
+@media only screen and (min-width: 1100px ){
+
+    .block-container{
+        padding: 50px 0;
+        margin: 50px 0;
+        display: flex;
+        flex-flow: row wrap;
+        width: 70vw !important;
+        margin-left: calc(50% - 35vw);
+        margin-right: calc(50% - 35vw);
+        justify-content: space-between;
+
+        &:before, &:after{
+            content: '';
+            flex: 1 0 100%;
+            height: 5px;
+            margin-top: -50px;
+            background: linear-gradient( to right, darken( $red, 20% ) 0%, darken( $orange, 20% ) 100%); 
+        }
+
+        &:after{
+            margin: 0 0 -50px 0;
+        }
+
+        .block{
+            width: 30%;
+            padding-bottom: 30px;
+            h3{
+                font-size: 1.3em;
+                color: $gold;
+            }
+        }
+    }
+}
