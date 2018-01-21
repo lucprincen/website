@@ -50,7 +50,7 @@ That being said; I'd love to help you in any custom WordPress project you might 
 
 <div class="cta">
 	<h3>That sounds perfect! Let's work together!</h3>
-	<a href="mailto:hi@lucp.nl" class="button">Get in touch</a>
+	<a href="/contact/" class="button">Get in touch</a>
 </div>
 
 ## Rates
