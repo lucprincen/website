@@ -22,7 +22,7 @@ I did do some development at an early age though. The first program I ever wrote
 10 print "peanuts"
 20 goto 10
 {{< /highlight >}}
-<small class="caption">* Peanuts wasn't the actual word I printed. I was about 8, so it was much more juveline, but phonettically pretty close.</small>
+<small class="caption">* Peanuts wasn't the actual word I printed. I was about 8, so it was much more juvenile, but phonettically pretty close.</small>
 
 After college, however, I started to freelance as a developer as well. I had little experience, but that didn't matter. Within no-time most of my billable hours where coming from development gigs. This self-taught aspect always made me feel insecure.
 

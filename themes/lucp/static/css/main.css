@@ -54,6 +54,9 @@ h1, h2, h3, h4, h5 {
   font-weight: 700;
   line-height: 150%; }
 
+p, small, a {
+  font-family: Tahoma, 'Lucida Grande', Verdana, sans-serif; }
+
 h1 {
   font-size: 2.4em; }
 
@@ -95,7 +98,7 @@ p {
 
 body {
   background: linear-gradient(to right, #ff9966 0%, #ff5e62 100%);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Tahoma, 'Lucida Grande', Verdana, sans-serif;
   color: #2d2d2d;
   font-size: 20px;
   line-height: 140%;
