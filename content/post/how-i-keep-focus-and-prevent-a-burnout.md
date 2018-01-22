@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "How I keep focus"
 description: "(and prevent a burnout)"
 date: 2018-01-22T17:11:29+01:00
