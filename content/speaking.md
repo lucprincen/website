@@ -12,9 +12,6 @@ In 2018 there'll be a few new events, which I can't talk about yet, but here's w
 **March 24th, 2018: WordCamp Rotterdam**<br/>
 Ditch your framework! Magical layouts with modern CSS<br/><br/>
 
-**April 28th, 2018: WP Tech, Lyon, France**<br/>
-Modern Javascript and WordPress – Async, Fetch, Promises, Classes, oh my!<br/><br/>
-
 ---
 
 ## Past speaking events
