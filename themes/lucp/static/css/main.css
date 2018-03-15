@@ -353,6 +353,11 @@ body {
     background-size: 100% 5px;
     background-repeat: no-repeat;
     background-position: center bottom; }
+  .post p > code {
+    font-size: .8em;
+    padding: 1px 2px;
+    background: gold;
+    font-family: monospace; }
 
 .comments {
   background: white;

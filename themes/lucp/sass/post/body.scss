@@ -124,6 +124,13 @@
         background-repeat: no-repeat;
         background-position: center bottom;
     }
+
+    p > code {
+        font-size: .8em;
+        padding: 1px 2px;
+        background: $gold;
+        font-family: monospace;
+    }
 }
 
 .comments{
