@@ -7,14 +7,15 @@ type: "page"
 
 ## Upcoming Speaking Events
 
-In 2018 there'll be a few new events, which I can't talk about yet, but here's what I know so far:
-
-**March 24th, 2018: WordCamp Rotterdam**<br/>
-Ditch your framework! Magical layouts with modern CSS<br/><br/>
+In 2018 there'll be a few new events, which I can't talk about yet. I'll let you know ASAP.
 
 ---
 
 ## Past speaking events
+
+**March 24th, 2018: WordCamp Rotterdam**<br/>
+Ditch your framework! Magical layouts with modern CSS<br/><br/>
+
 
 *March 3rd, 2018: WordCamp Oslo, Norway*<br/>
 Ditch your framework! Magical layouts with modern CSS<br/><br/>
