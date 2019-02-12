@@ -5,7 +5,7 @@
     justify-content: space-around;
     align-items: center;
     font-size: .7em;
-    background: linear-gradient( to left, darken( $red, 20% ) 0%, darken( $orange, 20% ) 100%); 
+    background: linear-gradient( to left, $blue 0%, $blue 100%); 
     background-size: 100% 30px;
     background-repeat: no-repeat;
     background-position: left bottom;
@@ -16,7 +16,10 @@
     nav{
         order: -1;
         padding-bottom: 2em;
-        a{ margin-left: 1em; }
+        a{ 
+            margin-left: 1em;
+            color: $red;
+        }
     }
 }
 

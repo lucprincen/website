@@ -3,7 +3,7 @@
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
-    background: white;
+    background: $lightGrey;
     padding: 20px 30px;
     h1 a{
         font-family: 'Alegreya';
@@ -12,6 +12,9 @@
         color: $red;
         text-decoration: none;
         font-size: .8em;
+        &:hover{
+            color: $green;
+        }
     }
 
     .menu{
@@ -109,7 +112,6 @@
 
 @media only screen and (min-width:1300px){
     #header .menu{ 
-        justify-content: center;
         a{ margin-right: 2em; }
     }
 }
