@@ -12,13 +12,14 @@
         </p>
         
         {{ range first 1 (where .Site.Pages "Type" "post") }}
-        <a class="last-post stat" href="{{ .RelPermalink }}">
+        <!--<a class="last-post stat" href="{{ .RelPermalink }}">-->
+            <a class="last-post stat" href="https://www.smashingmagazine.com/2018/06/wordpress-security-as-a-process/" target="_blank">
             <figure>
                 {{ readFile "static/images/icons/paperclip.svg" | safeHTML }}
             </figure>
             <strong>Latest blogpost</strong>   
             <span>
-                {{ .Title }} 
+                WordPress Security As a Process (Smashing Magazine)
             </span>
         </a>
         {{ end }}
@@ -37,7 +38,7 @@
             </figure>
             <strong>Available for work</strong>
             <span>
-                Starting in September, 2018
+                Starting in April, 2019
             </span>
         </a>
 
