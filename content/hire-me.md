@@ -57,7 +57,7 @@ That being said; I'd love to help you in any custom WordPress project you might 
 
 I work with a set of two hourly rates:
 
-### &euro; 80,- per hour
+### &euro; 85,- per hour
 If you like to hire me for a fixed price; this is the hourly rate we're discussing. The reason for this is simple: as a developer, I'm supposed to give you a quote on something that we haven't build yet. While chances are that -during the process- we run into issues we didn't anticipate before. This meaning that the project is still inside the original scope, just with an extra challenge. 
 With this hourly rate you can be certain that I will finish the job nonetheless and I won't charge you extra for the work.
 
@@ -65,7 +65,7 @@ Consultency and team training also fall under this rate.
 
 <br/>
 
-### &euro; 65,- per hour
+### &euro; 75,- per hour
 This is my regular hourly rate. Obviously, before we start a project together, I will give you a quote and in it I will tell you how many hours I think I need for the project. If the project goes well and I end up needing less hours; great! I won't charge you for more. If it ends up being more than the originally quoted amount I will tell you before-hand and we can decide together wether work should continue.
 
 
